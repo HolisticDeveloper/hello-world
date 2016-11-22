@@ -1,2 +1,3 @@
 # hello-world
-Trying the Hello World guide
+
+I love learning new things. Currently experimenting with Xamarin Forms.
